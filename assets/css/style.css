@@ -1,0 +1,47 @@
+body {
+    background-image: url(../img/background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #e41c47;
+}
+
+h1 {
+    font-family: "Mountains of Christmas", cursive;
+}
+
+.container {
+    color: #ffff;
+    display: flex;
+    justify-content: space-around;
+}
+
+#compNum {
+    background-color: #a2b8e7;
+    padding: 50px 20px;
+}
+
+#stats {
+    background-color: #a2b8e7;
+    padding: 20px;
+}
+
+#row {
+    display: flex;
+    align-items: center;
+}
+
+#row img {
+    width: 50px;
+    height: 50px;
+}
+
+#text {
+    background-color: #a2b8e7;
+    padding: 40px 20px;
+}
+
+#userNum {
+    background-color: #a2b8e7;
+    padding: 50px;
+}
